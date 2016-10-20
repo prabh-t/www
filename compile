@@ -1,0 +1,8 @@
+#!/bin/sh
+
+cd md/
+for f in *.md; do 
+ fout=../html/${f%.*}.html
+ echo Converting $f to $fout;
+ pandoc $f -o $fout --template ../template/default.html --css markdown.css
+done
