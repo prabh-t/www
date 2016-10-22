@@ -2,11 +2,10 @@
 
 #outdir=../html
 outdir=../../prabh-t.github.io
-cssfile=markdown10.css #markdown.css
 
 cd md/
 for f in *.md; do 
  fout=$outdir/${f%.*}.html
  echo Converting $f to $fout;
- pandoc $f -o $fout --template ../template/default.html --css $cssfile
+ pandoc $f -o $fout --template ../template/default.html --css css/markdown10.css
 done
