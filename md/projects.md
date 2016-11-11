@@ -1,5 +1,7 @@
 ### Projects
 
+#### DEMA
+
 #### VELaSSCo - Big Data and HPC
 
 [VELaSSCo](http://velassco.atosresearch.eu/) aims to provide new visual analysis methods for large-scale simulations serving the petabyte era and preparing the exabyte era. It does this by adopting Big Data tools and architectures for the engineering and scientific community and by leveraging new ways of in-situ processing for data analytics and hardware accelerated interactive visualization. 
