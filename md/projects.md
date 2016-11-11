@@ -1,18 +1,17 @@
 ### Projects
 
-#### VELaSSCo
-In this project, we are developing a software platform to enable analysis for extremely large-scale scientific computing.
+#### VELaSSCo - Big Data and HPC
 
-D2C transformation
+[VELaSSCo](http://velassco.atosresearch.eu/) aims to provide new visual analysis methods for large-scale simulations serving the petabyte era and preparing the exabyte era. It does this by adopting Big Data tools and architectures for the engineering and scientific community and by leveraging new ways of in-situ processing for data analytics and hardware accelerated interactive visualization. 
 
-#### Improving weather forecast using ML
+My main involvement relates to the implement of core analytics queries as MapReduce jobs. One example of such queries is the discrete-to-continuum (D2C) transform.
 
-optimised and parallelised the numerical weather prediction algorithm developed by David Corne.
-what does the algo do e.g. builds model for prediction of 3 params (cloud cover, temp, windspeed) using technique 1, 2, 3.
+#### ORIGIN - Improving weather forecast using machine learning
 
-#### par data
+[ORIGIN](http://www.origin-energy.eu) is a sophisticated intelligent ICT system for the management of energy in communities. I worked on parallelising and optimising a machine learning algorithm that learns and makes localised short-term weather predictions from large datasets. The prediction model is generated after extensive processing of data from various sources to learn an accurate model using feature selection, correlation analysis and regression.
 
-#### nbody 
-##### Haskell
-##### Scala
-##### F#
+
+#### Parallel evaluation strategies
+
+
+#### Parallel implementations of the n-body 
