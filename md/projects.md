@@ -8,8 +8,8 @@
 
 My main involvement relates to the implement of core analytics queries as MapReduce jobs. One example of such queries is the discrete-to-continuum (D2C) transform.
 
-<img class="thumb lightbox-photo" data-caption="Fluidised Bed d2c" src="fb-d2c.jpg" />
-<img class="thumb lightbox-photo" data-caption="Spatial and temporal averaging" src="d2c.jpg" />
+<img class="thumb lightbox-photo" data-caption="Fluidised Bed d2c" src="img/velassco/fb-d2c.jpg" />
+<img class="thumb lightbox-photo" data-caption="Spatial and temporal averaging" src="img/velassco/d2c.jpg" />
 
 #### ORIGIN - Improving weather forecast using machine learning
 
