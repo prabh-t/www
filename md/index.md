@@ -1,6 +1,6 @@
 ### About
 
-> I help solve complex computational problems. Usually this involves developing novel techniques, algorithms and exploiting high-performance computing systems.
+> *I help solve complex computational problems. Usually this involves using a number of methodologies including parallelisation, machine learning techniques, developing novel algorithms and exploiting high-performance computing systems.*
 
 I currently work as a postdoc researcher in Big Data and high-performance computing on the [VELaSSCo](http://velassco.atosresearch.eu/) project at the University of Edinburgh. 
 
