@@ -7,7 +7,7 @@ A proposal to rewrite the core analytics module of VELaSSCo to run on a Tier 0 H
 
 #### VELaSSCo - Big Data and HPC
 
-VELaSSCo project [url](http://velassco.atosresearch.eu/) The open-source platform comprising of the core analytics module implemented using Hadoop/HBase is going to be made available in a [public repository](https://github.com/velassco/VELASSCO) soon.
+VELaSSCo project [[url]](http://velassco.atosresearch.eu/) The open-source platform comprising of the core analytics module implemented using Hadoop/HBase is going to be made available in a [public repository](https://github.com/velassco/VELASSCO) soon.
 
 VELaSSCo aims to provide new visual analysis methods for large-scale simulations serving the petabyte era and preparing the exabyte era. It does this by adopting Big Data tools and architectures for the engineering and scientific community and by leveraging new ways of in-situ processing for data analytics and hardware accelerated interactive visualization. 
 
@@ -29,7 +29,7 @@ My main involvement relates to the implement of core analytics queries as MapRed
 
 #### Haskell evaluation strategies
 
-Haskell evaluation strategies library [url](https://hackage.haskell.org/package/parallel) I extended the strategies library to include evaluation strategies defined for tree and graph data structures using advanced parallelism control mechanisms in evaluating sub-components of the structure.
+Haskell evaluation strategies library [[url]](https://hackage.haskell.org/package/parallel) I extended the strategies library to include evaluation strategies defined for tree and graph data structures using advanced parallelism control mechanisms in evaluating sub-components of the structure.
 
 
 #### Parallel implementations of the n-body 
