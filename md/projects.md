@@ -35,3 +35,11 @@ Haskell evaluation strategies library [url](https://hackage.haskell.org/package/
 #### Parallel implementations of the n-body 
 
 I have several implementations of the n-body problem (using hierarchical tree-based algorithms) in a number of languages: Haskell, Scala, F#, Java, C, etc. These are meant for performance comparison across the languages using a variety of parallel programming models and system architectures.
+
+### RAlist
+
+List data structure implementation using an alternative underlying representation for fast and parallel operations.
+
+### nt-cht
+A net chat client/server: synchronous web-based messaging service written in Java Servlet and AJAX.
+
