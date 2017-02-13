@@ -1,6 +1,6 @@
 ### Publications and Presentations
 
-- *Haskell vs. F# vs. Scala: A high-level language features and parallelism support comparison.* Totoo, P., Deligiannis, P., and Loidl, H.-W. (2012). In Proceedings of the 1st ACM SIGPLAN Workshop on Functional High-performance Computing, FHPC ’12, pp. 49-–60, New York, NY, USA. ACM.
+- *Haskell vs. F# vs. Scala: A high-level language features and parallelism support comparison.* Totoo, P., Deligiannis, P., and Loidl, H.-W. (2012). In Proceedings of the 1st ACM SIGPLAN Workshop on Functional High-performance Computing, FHPC ’12, pp. 49--60, New York, NY, USA. ACM.
 DOI: [10.1145/2364474.2364483](http://dx.doi.org/10.1145/2364474.2364483), [[pdf]](http://www.macs.hw.ac.uk/~dsg/gph/papers/abstracts/fhpc12.html) \
 Presented at Edlambda, Edinburgh, 8 May 2012. [[slides]](http://www.macs.hw.ac.uk/~pt114/pdf/edlambda.pdf)\
 Presented at FHPC'12, Copenhagen, 15 Sep 2012. [[slides]](http://www.slideshare.net/pt114/haskell-vs-f-vs-scala)
@@ -11,7 +11,7 @@ Tech.Rep. No.: [HW-MACS-TR-0103](http://www.macs.hw.ac.uk/cs/techreps/doc0103.ht
 - *Parallel Haskell implementations of the N-body problem.* Totoo, P. and Loidl, H.-W. (2014). Concurrency Computation: Practice and Experience, Vol. 26(4), pp. 987-–1019.
 DOI: [10.1002/cpe.3087](http://dx.doi.org/10.1002/cpe.3087), [[pdf]](http://www.macs.hw.ac.uk/~dsg/gph/papers/abstracts/sicsamcc12.html)
 
-- *Lazy data-oriented evaluation strategies.* Totoo, P. and Loidl, H.-W. (2014). In Proceedings of the 3rd ACM SIGPLAN Workshop on Functional High-performance Computing, FHPC ’14, pp. 63–-74, New York, NY, USA. ACM.
+- *Lazy data-oriented evaluation strategies.* Totoo, P. and Loidl, H.-W. (2014). In Proceedings of the 3rd ACM SIGPLAN Workshop on Functional High-performance Computing, FHPC ’14, pp. 63--74, New York, NY, USA. ACM.
 DOI: [10.1145/2636228.2636234](http://dx.doi.org/10.1145/2636228.2636234), [[pdf]](http://www.macs.hw.ac.uk/~dsg/gph/papers/abstracts/fhpc14.html) \
 Presented at FHPC'14, Gothenburg, Sweden, 4 Sep 2014. [[slides]](http://www.macs.hw.ac.uk/~pt114/pdf/fhpc2014.pdf)
 
