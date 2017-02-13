@@ -1,4 +1,4 @@
-### Projects
+### Open-Source/Research Projects
 
 Some of the projects I contribute to can be found in [Github](https://github.com/prabh-t).
 
