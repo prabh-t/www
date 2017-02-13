@@ -7,7 +7,7 @@ A proposal to rewrite the core analytics module of VELaSSCo to run on a Tier 0 H
 
 #### VELaSSCo - Big Data and HPC
 
-VELaSSCo[VELaSSCo](http://velassco.atosresearch.eu/) project [url] The open-source platform comprising of the core analytics module implemented using Hadoop/HBase is going to be made available in a [public repository](https://github.com/velassco/VELASSCO) soon.
+[VELaSSCo](http://velassco.atosresearch.eu/) project [url] The open-source platform comprising of the core analytics module implemented using Hadoop/HBase is going to be made available in a [public repository](https://github.com/velassco/VELASSCO) soon.
 
 VELaSSCo aims to provide new visual analysis methods for large-scale simulations serving the petabyte era and preparing the exabyte era. It does this by adopting Big Data tools and architectures for the engineering and scientific community and by leveraging new ways of in-situ processing for data analytics and hardware accelerated interactive visualization. 
 
