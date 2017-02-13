@@ -8,7 +8,7 @@ Presented at FHPC'12, Copenhagen, 15 Sep 2012. [[slides]](http://www.slideshare.
 - *A survey of high-level parallel programming models.* Belikov, E., Deligiannis, P., Totoo, P., Aljabri, M., and Loidl, H.-W. (2013). Technical report, Heriot-Watt University, Edinburgh.
 Tech.Rep. No.: [HW-MACS-TR-0103](http://www.macs.hw.ac.uk/cs/techreps/doc0103.html), [[pdf]](http://www.macs.hw.ac.uk/cs/techreps/docs/files/HW-MACS-TR-0103.pdf)
 
-- *Parallel Haskell implementations of the N-body problem.* Totoo, P. and Loidl, H.-W. (2014). Concurrency Computation: Practice and Experience, Vol. 26(4), pp. 987-–1019.
+- *Parallel Haskell implementations of the N-body problem.* Totoo, P. and Loidl, H.-W. (2014). Concurrency Computation: Practice and Experience, Vol. 26(4), pp. 987--1019.
 DOI: [10.1002/cpe.3087](http://dx.doi.org/10.1002/cpe.3087), [[pdf]](http://www.macs.hw.ac.uk/~dsg/gph/papers/abstracts/sicsamcc12.html)
 
 - *Lazy data-oriented evaluation strategies.* Totoo, P. and Loidl, H.-W. (2014). In Proceedings of the 3rd ACM SIGPLAN Workshop on Functional High-performance Computing, FHPC ’14, pp. 63--74, New York, NY, USA. ACM.
