@@ -15,7 +15,7 @@ DOI: [10.1002/cpe.3087](http://dx.doi.org/10.1002/cpe.3087), [[pdf]](http://www.
 DOI: [10.1145/2636228.2636234](http://dx.doi.org/10.1145/2636228.2636234), [[pdf]](http://www.macs.hw.ac.uk/~dsg/gph/papers/abstracts/fhpc14.html) \
 Presented at FHPC'14, Gothenburg, Sweden, 4 Sep 2014. [[slides]](http://prabh-t.github.io/pdf/fhpc2014.pdf)
 
-- *Parallel Evaluation Strategies for Lazy Data Structures in Haskell.* Totoo P. (2016). PhD thesis, Heriot-Watt University, Edinburgh. [[pdf]](http://www.macs.hw.ac.uk/~pt114/phd-thesis/main.pdf)
+- *Parallel Evaluation Strategies for Lazy Data Structures in Haskell.* Totoo P. (2016). PhD thesis, Heriot-Watt University, Edinburgh. [[url]](http://hdl.handle.net/10399/2990)
 
 - *Post-Processing of Large-Scale DEM Simulations for End-User Analytics and Visualisation.* Janda, A., Filippone, G., Hanley, K.J., Papanicolopulos, S., Morrissey, J.P., Totoo, P., Ooi, J.Y. (2016). NAFEMS UK Conference. [[pdf]](http://prabh-t.github.io/pdf/NAFEMS\_Janda\_Extended_Abstract.pdf)
 
